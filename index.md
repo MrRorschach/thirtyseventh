@@ -1,8 +1,7 @@
 ## Welcome to the Thirty Seventh Page
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Ok this works but it is not aesthetically what I want so lets try building something a bit more robust.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
